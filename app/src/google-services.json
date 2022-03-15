@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44542238326",
+    "project_id": "quiztion-1538c",
+    "storage_bucket": "quiztion-1538c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44542238326:android:cee45b80fc5c7a68df0957",
+        "android_client_info": {
+          "package_name": "com.ayowainc.quizbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44542238326-7ded0g1idf264ttgn87ov8ft6oqoobvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcEi-cfuOB23rUpFkVk3_pzXZcprKfUpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44542238326-7ded0g1idf264ttgn87ov8ft6oqoobvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
